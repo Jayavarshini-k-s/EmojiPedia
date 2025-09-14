@@ -1,45 +1,52 @@
 Link for the REACT Project EmojiPedia 👉: https://d3rzvp.csb.app/
-# Emojipedia 🎉
+<!-- Project Header -->
+<h1 align="center">✨ Emojipedia ✨</h1>
+<p align="center">
+  A fun mini emoji dictionary built with <b>React</b> 🎉  
+</p>
 
-A simple React-based mini emoji dictionary that displays emojis along with their names and meanings. Perfect for quick emoji lookups and fun learning!
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-JS-blue?logo=react" alt="React"></a>
+  <a href="https://d3rzvp.csb.app/"><img src="https://img.shields.io/badge/Live%20Demo-Emojipedia-green?style=flat&logo=vercel" alt="Live Demo"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"></a>
+</p>
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
 
-Check out the live project here: [Emojipedia on CodeSandbox](https://d3rzvp.csb.app/)
+👉 [Click here to try Emojipedia](https://d3rzvp.csb.app/)  
 
 ---
 
 ## 📸 Screenshots
-![WhatsApp Image 2025-09-14 at 17 59 36_17d624ee](https://github.com/user-attachments/assets/ac7bb22b-49db-4f41-a0a7-3a56a4795124)
 
-![WhatsApp Image 2025-09-14 at 17 59 57_388adb98](https://github.com/user-attachments/assets/cfb2a936-5120-4bec-9033-47a8214d7cb4)
+![WhatsApp Image 2025-09-14 at 19 11 22_ae350829](https://github.com/user-attachments/assets/c6402307-fadd-4005-bec6-19b56be3047e)
 
+---![WhatsApp Image 2025-09-14 at 19 11 45_bacee855](https://github.com/user-attachments/assets/246d4749-3385-430c-8cb0-01ccd6985f3f)
 
----
 
 ## ✨ Features
 
-- 📖 Browse a collection of emojis with their names and meanings  
-- 🔍 Acts like a mini emoji dictionary  
-- 🎨 Simple and clean UI built with React  
-- ⚡ Fast and responsive  
+- 📖 Browse a collection of emojis with their **names** and **meanings**  
+- 🔍 Acts like a **mini emoji dictionary**  
+- 🎨 Clean and minimal **UI** built with React  
+- ⚡ **Fast** and responsive design  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **React**  
-- **HTML**  
-- **CSS**  
-- **JavaScript**
+- ⚛️ **React**  
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- 📜 **JavaScript (ES6+)**
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Follow these steps to run the project locally:
+Clone the repo and install dependencies:
 
 ```bash
 # Clone this repository
@@ -53,3 +60,4 @@ npm install
 
 # Start the development server
 npm start
+
